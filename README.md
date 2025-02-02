@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloatdias/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pauloandr/)
 
-![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloandr-dev&show_icons=true&theme=dark)
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloandrdev&show_icons=true&theme=dark)
 
 ## Quem sou eu?
 -  🚀 Desenvolvedor Full Stack com uma paixão por tecnologia, novos aprendizados e por mudar a vida das pessoas através da programação! Ao longo da minha trajetória profissional, tenho desempenhado um papel fundamental em projetos que modernizam e transformam sistemas complexos, sempre focando na excelência técnica e na eficiência das soluções aplicadas.
