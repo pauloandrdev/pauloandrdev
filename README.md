@@ -7,8 +7,7 @@
 
 ## Quem sou eu?
 -  🚀 Desenvolvedor Full Stack com uma paixão por tecnologia, novos aprendizados e por mudar a vida das pessoas através da programação! Ao longo da minha trajetória profissional, tenho desempenhado um papel fundamental em projetos que modernizam e transformam sistemas complexos, sempre focando na excelência técnica e na eficiência das soluções aplicadas.
-
-•⁠  ⁠📚 O aprendizado contínuo é um elemento essencial da minha trajetória. Constantemente busco novos horizontes e tecnologias emergentes, guiado pela filosofia de "Stay Hungry, Stay Foolish". Estou comprometido em explorar novas fronteiras na interseção entre finanças e tecnologia, contribuindo para projetos que moldam o futuro digital.
+-  ⁠📚 O aprendizado contínuo é um elemento essencial da minha trajetória. Constantemente busco novos horizontes e tecnologias emergentes, guiado pela filosofia de "Stay Hungry, Stay Foolish". Estou comprometido em explorar novas fronteiras na interseção entre finanças e tecnologia, contribuindo para projetos que moldam o futuro digital.
 
 ## Tecnologias que eu uso no meu dia
 
@@ -16,6 +15,7 @@
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="typescript" src="[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
